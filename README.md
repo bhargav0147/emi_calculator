@@ -1,16 +1,9 @@
-# emi_calculator
+<p>
+<img src="https://user-images.githubusercontent.com/119872080/220011523-7f40f5d1-a834-44d4-90e5-1912b6486066.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/220011678-17ab244b-9a0b-48f6-b178-140b464a5dac.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/220011731-1f436420-2a52-40eb-ae3b-71f4a87aff26.png" height="30%" width="50%" >
 
-A new Flutter project.
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
